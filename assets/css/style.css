@@ -104,6 +104,7 @@ main {
     background-color: beige;
     /* Main content to take up page space */
     flex: 1 0 auto;
+    margin-top: 155px;
 }
 
 /* Footer*/
