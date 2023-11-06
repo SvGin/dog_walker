@@ -1,0 +1,22 @@
+/* Asterisk wilcard to override default styles which are added by the browser*/
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+} 
+
+/* Header*/
+header {
+    background-color: rgb(127, 157, 255);
+}
+
+/* Main Content*/
+main {
+    background-color: beige;
+}
+
+/* Footer*/
+footer {
+    background-color: blueviolet
+    ;
+}
