@@ -52,8 +52,40 @@ h1 {
 }
 
 .active {
-    border-bottom: 1px solid rgb(59, 7, 7);
+    background-color: #04AA6D;
+        color: white;
 }
+
+ul {
+    list-style-type: none;
+    
+}
+
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: green;
+}
+
+/* Navbar style with dropdown toggle*/
+nav {
+    position: absolute;
+    background-color: #ffffff;
+    width: 100%;
+    left: 0;
+    padding: 0 1rem;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: ;
+    top: 100%;
+}
+
 
 /* Main Content*/
 main {
