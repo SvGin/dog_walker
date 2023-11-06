@@ -28,8 +28,16 @@ header {
 
 }
 
+header a {
+    text-decoration: none;
+    color: inherit;
+}
+
 h1 {
     font-family: 'Playpen Sans', cursive;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: rgb(59, 7, 7);
 }
 
 /* Main Content*/
