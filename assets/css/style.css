@@ -22,6 +22,10 @@ header {
     background-color: rgb(127, 157, 255);
 }
 
+h1 {
+    font-family: 'Playpen Sans', cursive;
+}
+
 /* Main Content*/
 main {
     background-color: beige;
