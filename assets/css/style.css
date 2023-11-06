@@ -40,6 +40,21 @@ h1 {
     color: rgb(59, 7, 7);
 }
 
+#menu {
+    font-size: 110%;
+    list-style-type: none;
+    letter-spacing: 1px;
+
+}
+
+#menu > li {
+    margin-top: 1em;
+}
+
+.active {
+    border-bottom: 1px solid rgb(59, 7, 7);
+}
+
 /* Main Content*/
 main {
     background-color: beige;
