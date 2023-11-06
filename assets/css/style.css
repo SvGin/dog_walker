@@ -52,7 +52,7 @@ h1 {
 }
 
 .active {
-    background-color: #04AA6D;
+    background-color: #0423aa;
         color: white;
 }
 
@@ -71,7 +71,7 @@ li a {
 /* Change the link color on hover */
 li a:hover {
     background-color: #555;
-    color: green;
+    color: rgb(13, 54, 59);
 }
 
 /* Navbar style with dropdown toggle*/
