@@ -112,3 +112,28 @@ footer {
     background-color: blueviolet
     ;
 }
+
+/* Media query: tablets and larger (768px and up) */
+ @media screen and (min-width: 768px) {
+    /* Header */
+    nav {
+        display: none;
+        position: absolute;
+        box-shadow: none;
+        width: 100%;
+        padding-right: 10rem;  
+    }
+
+    #menu {
+        display: flex;
+    }  
+    
+   
+    
+    
+     /* Main Content*/
+    main {
+        /* Main content to take up page space */
+        margin-top: 59px;
+        }
+    }
