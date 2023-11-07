@@ -113,6 +113,13 @@ footer {
     ;
 }
 
+/* Media query: phones and larger (375px and up) */
+@media screen and (min-width: 375px) {
+    /* Main Content*/
+    main {
+        margin-top: 107px;
+    }
+}
 /* Media query: tablets and larger (768px and up) */
  @media screen and (min-width: 768px) {
     /* Header */
@@ -127,10 +134,13 @@ footer {
     #menu {
         display: flex;
     }  
-    
-   
-    
-    
+
+   #logo {
+      font-size: 280%;
+      line-height: 200px;
+      margin: 0 0.5rem;
+    }
+
      /* Main Content*/
     main {
         /* Main content to take up page space */
