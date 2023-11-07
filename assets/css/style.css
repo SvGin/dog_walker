@@ -45,7 +45,7 @@ h1 {
 #menu {
     font-size: 110%;
     list-style-type: none;
-    letter-spacing: 1px;
+    letter-spacing: 2px;
 
 }
 
@@ -150,5 +150,14 @@ main {
 
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
-   
+   /* Header*/
+   #logo {
+    line-height: 100px;
+    font-size: 320%;
+   }
+
+   /* Main Content*/
+   main {
+    margin-top: 100px;
+   }
 }
