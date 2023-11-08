@@ -112,8 +112,7 @@ main {
     width: 100%;
     position: relative;
 }
-#hero-text {
-   
+#hero-text { 
    background-color: rgba(86, 109, 99, .7);
    font-size: 130%;
    position: absolute;
@@ -199,6 +198,12 @@ main {
 /* Push main content down to accommodate larger header */
     margin-top: 75px;
 }
+#hero-text {
+    width: 300px;
+    height: 198px;
+    right: 50px;
+    top: 100px;
+}
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -212,5 +217,11 @@ main {
    /* Main Content*/
    main {
     margin-top: 100px;
+   }
+   #hero-text {
+       width: 400px;
+       right: 300px;
+       text-align: center;
+       font-size: 150%;
    }
 }
