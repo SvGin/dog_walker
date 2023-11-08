@@ -116,10 +116,7 @@ main {
 footer{
     background-color: #376D4D;
 }
-.follow {
-    justify-content: center;
-    text-align: center;
-}
+
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -129,10 +126,10 @@ footer{
 }
 
 #social-networks i {
-    font-size: 160%;
+    font-size: 150%;
     padding: 5%;
     color: #BAB4B6;
-    letter-spacing: 50px;
+    letter-spacing: 20px;
 }
 
 
