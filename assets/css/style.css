@@ -108,9 +108,21 @@ main {
 }
 
 /* Footer*/
-footer {
-    background-color: blueviolet;
+#social-networks {
+    text-align: center;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
 }
+
+#social-networks i {
+    font-size: 160%;
+    padding: 5%;
+    color: #3a3a3a;
+    letter-spacing: 50px;
+}
+
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
