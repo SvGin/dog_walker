@@ -13,18 +13,18 @@ body {
     min-height: 100vh;
     display: flex;
     flex-direction: column;
-    color: rgb(59, 7, 7);
+    color: #D5BAB1;
     font-family: 'Barlow', sans-serif;
 }
 
 /* Header*/
 header {
-    background-color: #ffffff;
+    background-color: #376D4D;
     padding: 0 1rem;
     position: fixed;
     z-index: 99;
     width: 100%;
-    box-shadow: 0 4px 4px rgb(59, 7, 7);
+    box-shadow: 0 4px 4px #D5BAB1;
     display: flex;
     justify-content: space-between;
     align-items: baseline;
@@ -39,7 +39,7 @@ h1 {
     font-family: 'Playpen Sans', cursive;
     text-transform: none;
     letter-spacing: 2px;
-    color: rgb(59, 7, 7);
+    color: #BAB4B6;
 }
 
 #menu {
@@ -54,7 +54,7 @@ h1 {
 }
 
 .active {
-    background-color: #0423aa;
+    background-color: #574436;
         color: white;
 }
 
@@ -65,21 +65,21 @@ ul {
 
 #menu a {
     display: block;
-    color: #000;
+    color: #D5BAB1;
     padding: 8px 16px;
     text-decoration: none;
 }
 
 /* Change the link color on hover */
 #menu a:hover {
-    background-color: #555;
-    color: rgb(13, 54, 59);
+    background-color: #094521;
+    color: #D5BAB1;
 }
 
 /* Navbar style with dropdown toggle*/
 nav {
     position: absolute;
-    background-color: #ffffff;
+    background-color: #376D4D;
     width: 100%;
     left: 0;
     padding: 0 1rem;
@@ -113,6 +113,9 @@ main {
 }
 
 /* Footer*/
+footer{
+    background-color: #376D4D;
+}
 .follow {
     justify-content: center;
     text-align: center;
@@ -128,7 +131,7 @@ main {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: #BAB4B6;
     letter-spacing: 50px;
 }
 
