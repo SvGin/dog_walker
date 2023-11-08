@@ -101,10 +101,15 @@ nav {
 
 /* Main Content*/
 main {
-    background-color: beige;
-    /* Main content to take up page space */
+/* Main content to take up page space */
     flex: 1 0 auto;
     margin-top: 48px;
+}
+/* Hero section */
+#hero {
+    height: 600px;
+    width: 100%;
+    background: url(../images/pexels-johann-1254140.jpg) no-repeat center center/cover;
 }
 
 /* Footer*/
