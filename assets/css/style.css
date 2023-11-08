@@ -117,6 +117,16 @@ footer{
     background-color: #376D4D;
 }
 
+#follow-span{
+    display: block;
+    justify-content: center;
+    text-align: center;
+    padding-top: 5px;
+    font-size: 110%;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+    
 #social-networks {
     text-align: center;
     padding: 20px 0;
