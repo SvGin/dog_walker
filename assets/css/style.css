@@ -218,6 +218,9 @@ main {
    main {
     margin-top: 100px;
    }
+#hero {
+   background: url(../images/pexels-johann-1254140.jpg) no-repeat center center/cover fixed;
+}
    #hero-text {
        width: 400px;
        right: 300px;
