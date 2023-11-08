@@ -108,6 +108,10 @@ main {
 }
 
 /* Footer*/
+.follow {
+    justify-content: center;
+    text-align: center;
+}
 #social-networks {
     text-align: center;
     padding: 20px 0;
@@ -122,6 +126,7 @@ main {
     color: #3a3a3a;
     letter-spacing: 50px;
 }
+
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
