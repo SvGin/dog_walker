@@ -63,7 +63,7 @@ ul {
     
 }
 
-li a {
+#menu a {
     display: block;
     color: #000;
     padding: 8px 16px;
@@ -71,7 +71,7 @@ li a {
 }
 
 /* Change the link color on hover */
-li a:hover {
+#menu a:hover {
     background-color: #555;
     color: rgb(13, 54, 59);
 }
