@@ -132,6 +132,42 @@ main {
     font-family: 'Barlow',sans-serif;
 }
 
+/* about us section */
+#about-reasons {
+    width: 90%;
+    margin: 20px auto;
+}
+
+#about-reasons {
+    margin-bottom: 20px;
+    text-align: left;
+   
+}
+.color h3 {
+    color: #094521;
+}
+
+.list-about-reasons {
+    list-style-type: circle;
+    padding-left: 20px;
+}
+
+#aboutl > div,
+#reasons > div {
+    line-height: 20px;
+    margin-bottom: 20px;
+}
+
+#about-reasons p {
+    padding: 0 20px;
+}
+
+#about-reasons hr {
+    border-top: 4px solid #094521;
+    margin: 5px 0;
+}
+
+
 /* Footer*/
 footer{
     background-color: #376D4D;
