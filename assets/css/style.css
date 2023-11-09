@@ -152,6 +152,10 @@ main {
     padding-left: 20px;
 }
 
+#reasons {
+    padding-top: 20px;
+
+}
 #aboutl > div,
 #reasons > div {
     line-height: 20px;
@@ -240,6 +244,24 @@ main {
     right: 50px;
     top: 100px;
 }
+
+ /* About Us and Reason section */
+ #about,
+ #reasons {
+     display: flex;
+     flex-direction: column;
+     width: 100%;
+ }
+
+ #about > div,
+ #reasons > div {
+     width: 75%;
+ }
+
+ #reasons > div {
+     align-self: flex-end;
+ }
+
 }
 
 /* Large devices (laptops and desktops, 992px and up) */
