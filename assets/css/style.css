@@ -132,7 +132,7 @@ main {
     font-family: 'Barlow',sans-serif;
 }
 
-/* */
+/* About Us and Reasons to hire us section*/
 
 #about-reasons {
     /* Respondivity without the need of meadia query*/
@@ -156,7 +156,7 @@ main {
 }
 
 .list-about-reasons {
-    list-style-type: circle;
+    list-style-type: disc;
     padding-left: 20px;
 }
 /* Services section*/
@@ -165,10 +165,13 @@ main {
     background-color: #376D4D;
     width: 100%;
     margin: 20px auto;
+    
 }
 #services h2 {
     text-align: center;
-    font-size: 150%;
+    font-size: 200%;
+    color: #D5BAB1;
+    padding:20px;
 }
 
 #services h3 {
@@ -189,7 +192,10 @@ main {
     padding: 10px 10px;
 }
 
-
+.under-list{
+    list-style-type: circle;
+    padding-left: 20px;
+}
 /* Section Dog picture*/
 
 #dog img {
