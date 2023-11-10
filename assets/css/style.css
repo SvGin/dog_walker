@@ -280,7 +280,7 @@ main {
 }
 .column {
     flex: 1;
-    border :2px solid yellow
+    border :2px solid #D5BAB1;
 }
 
 
