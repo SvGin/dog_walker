@@ -132,17 +132,25 @@ main {
     font-family: 'Barlow',sans-serif;
 }
 
-/* about us section */
-#about-reasons {
-    width: 90%;
-    margin: 20px auto;
-}
+/* */
 
 #about-reasons {
-    margin-bottom: 20px;
-    text-align: left;
-   
+    /* Respondivity without the need of meadia query*/
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
 }
+#about-reasons div {
+    color: #094521;
+    background-color: white;
+    padding: 15px;
+    text-align: justify;
+    /* This will not wrap on screens less than 400px whide.
+    Each div will expand to fill acvaliable space on its row*/
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
 .color h3 {
     color: #094521;
 }
@@ -152,24 +160,8 @@ main {
     padding-left: 20px;
 }
 
-#reasons {
-    padding-top: 20px;
 
-}
-#aboutl > div,
-#reasons > div {
-    line-height: 20px;
-    margin-bottom: 20px;
-}
 
-#about-reasons p {
-    padding: 0 20px;
-}
-
-#about-reasons hr {
-    border-top: 4px solid #094521;
-    margin: 5px 0;
-}
 
 
 /* Footer*/
@@ -245,25 +237,6 @@ main {
     top: 100px;
 }
 
- /* About Us and Reason section */
- #about,
- #reasons {
-     display: flex;
-     flex-direction: column;
-     width: 100%;
- }
-
- #about > div,
- #reasons > div {
-     width: 75%;
- }
-
- #reasons > div {
-     align-self: flex-end;
- }
-
-}
-
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
    /* Header*/
@@ -285,4 +258,13 @@ main {
        text-align: center;
        font-size: 150%;
    }
+
+   /* About Us and Reason section*/
+   #about {
+        margin-left: 100px;
+   }
+   #reasons {
+        margin-right: 100px;
+   }
+   
 }
