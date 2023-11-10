@@ -133,6 +133,9 @@ main {
 }
 
 /* About Us and Reasons to hire us section*/
+#tablets {
+    display: none;
+}
 
 #about-reasons {
     /* Respondivity without the need of meadia query*/
@@ -164,7 +167,7 @@ main {
 #services {
     background-color: #376D4D;
     width: 100%;
-    margin: 20px auto;
+    margin: 3px auto;
     
 }
 #services h2 {
@@ -196,13 +199,33 @@ main {
     list-style-type: circle;
     padding-left: 20px;
 }
-/* Section Dog picture*/
-
-#dog img {
-    width: 100%;
+/* Contact us section*/
+#contact-us h2 {
+    background-color: rgba(86, 109, 99, .7);
+    text-align: center;
+    color: #094521;
+}
+#contacts {
+    background: url(../images/pexels-lumn-406014.jpg) no-repeat center/cover;
+    display: flex;
+    flex-wrap: wrap;
+}
+#contacts h3 {
+    color: white;
 }
 
-
+#contacts div {
+    color: white;
+        background-color: rgba(86,109,99,.7);
+        padding: 15px;
+        text-align: center;
+        /* This will not wrap on screens of less than 400px wide.
+        Each div will expand to fill the available space on its row */
+        flex-basis: 200px;
+        flex-grow: 1;
+        /* Creates a grid offset divs over the background image */
+        border: 2px solid white;
+}
 
 
 
@@ -281,6 +304,7 @@ main {
 }
 
 /* Services and Prices section*/
+
 .flex-column {
     display: flex;
 }
@@ -324,4 +348,6 @@ main {
         margin-right: 100px;
         margin-left: 100px;
    }
+   /* Services and prices section*/
+   
 }
