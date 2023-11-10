@@ -162,8 +162,34 @@ main {
 /* Services section*/
 
 #services {
-    background-color: #094521;
+    background-color: #376D4D;
+    width: 100%;
+    margin: 20px auto;
 }
+#services h2 {
+    text-align: center;
+    font-size: 150%;
+}
+
+#services h3 {
+    text-align: center;
+}
+
+#services-box img{
+    bottom: 30px;
+    width: 100%;
+    min-height: 200px;
+    padding: 10px 10px;
+}
+
+#service-text {
+    bottom: 30px;
+    width: 100%;
+    min-height: 200px;
+    padding: 10px 10px;
+}
+
+
 /* Section Dog picture*/
 
 #dog img {
@@ -248,6 +274,19 @@ main {
     top: 100px;
 }
 
+/* Services and Prices section*/
+.flex-column {
+    display: flex;
+}
+.column {
+    flex: 1;
+    border :2px solid yellow
+}
+
+
+
+
+}
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
    /* Header*/
@@ -260,9 +299,9 @@ main {
    main {
     margin-top: 100px;
    }
-#hero {
+    #hero {
    background: url(../images/pexels-johann-1254140.jpg) no-repeat center center/cover fixed;
-}
+    }
    #hero-text {
        width: 400px;
        right: 300px;
@@ -279,5 +318,4 @@ main {
         margin-right: 100px;
         margin-left: 100px;
    }
-   
 }
