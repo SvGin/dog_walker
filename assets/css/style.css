@@ -244,11 +244,12 @@ main {
 #photos img {
     width: 100%;
     line-height: 1em;
+    border-style: solid;
 }
 
 #photos {
     line-height: 0;
-   
+    
 }
 
 /* Footer*/
