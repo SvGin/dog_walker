@@ -281,63 +281,71 @@ footer{
     letter-spacing: 20px;
 }
 
+/* Media query: large or landscape phones (576px and up) */
+@media screen and (min-width: 576px) {
+    #photos {
+        column-count: 2;
+        column-gap: 0;
+    }
+}
 
 /* Media query: tablets and larger (768px and up) */
 @media screen and (min-width: 768px) {
 
-/* Header */
-nav {
-    display: block;
-    position: relative;
-    box-shadow: none;
-    width: fit-content;
-   
+    /* Header */
+    nav {
+        display: block;
+        position: relative;
+        box-shadow: none;
+        width: fit-content;
+    }
+
+    #menu {
+        display: flex;
+    }
+
+    #menu > li {
+        padding-left: 1rem;
+    }
+
+    .nav-toggle-label {
+        display: none;
+    }   
+
+    #logo {
+        font-size: 290%;
+        line-height: 75px;
+        margin: 0 1rem;
+    }
+
+    /* Main content */
+    main {
+    /* Push main content down to accommodate larger header */
+        margin-top: 75px;
+    }
+    #hero-text {
+        width: 300px;
+        height: 198px;
+        right: 50px;
+        top: 100px;
+    }
+
+    /* Services and Prices section*/
+    .flex-column {
+        display: flex;
+    }
+
+    .column {
+        flex: 1;
+        border :2px solid #D5BAB1;
+    }
+    /* Gallery */
+    #photos {
+        column-count: 3;
+    }
 }
 
-#menu {
-    display: flex;
-}
 
-#menu > li {
-    padding-left: 1rem;
-}
-
-.nav-toggle-label {
-    display: none;
-}
-
-#logo {
-    font-size: 290%;
-    line-height: 75px;
-    margin: 0 1rem;
-}
-
-/* Main content */
-main {
-/* Push main content down to accommodate larger header */
-    margin-top: 75px;
-}
-#hero-text {
-    width: 300px;
-    height: 198px;
-    right: 50px;
-    top: 100px;
-}
-
-/* Services and Prices section*/
-
-.flex-column {
-    display: flex;
-}
-.column {
-    flex: 1;
-    border :2px solid #D5BAB1;
-}
-
-
-
-
-}
 /* Large devices (laptops and desktops, 992px and up) */
 @media screen and (min-width: 992px) {
    /* Header*/
@@ -378,6 +386,11 @@ main {
     #contact-us h2{
         background-color: #376D4D;
         color: #D5BAB1;
+    }
+
+     /* Gallery */
+     #photos {
+        column-count: 4;
     }
 }
    
