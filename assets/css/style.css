@@ -190,9 +190,9 @@ main {
 #service-img {
     background: url(../images/pexels-blue-bird-7210754.jpg) no-repeat center center/cover ;
     bottom: 30px;
-        width: 100%;
-        min-height: 200px;
-        padding: 10px 10px;
+    width: 100%;
+    min-height: 200px;
+    padding: 10px 10px;
 
 }
 
@@ -212,11 +212,15 @@ main {
     background-color: rgba(86, 109, 99, .7);
     text-align: center;
     color: #094521;
+    padding: 20px;
+    font-size: 200%;
 }
 #contacts {
     background: url(../images/pexels-lumn-406014.jpg) no-repeat center/cover;
     display: flex;
     flex-wrap: wrap;
+    width: 100%;
+    min-height: 175px;
 }
 #contacts h3 {
     color: white;
@@ -356,6 +360,17 @@ main {
         margin-right: 100px;
         margin-left: 100px;
    }
-   /* Services and prices section*/
-   
+   /* Contact U section */
+
+#contacts{
+    background: url(../images/bones_crop.png) no-repeat center center/cover;
+
+    }
+    #contact-us h2{
+        background-color: #376D4D;
+        color: #D5BAB1;
+    }
 }
+   
+
+   
