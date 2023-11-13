@@ -260,6 +260,7 @@ main {
 #cover {
     background: url(../images/pexels-rubenstein-rebello-8121142.jpg) no-repeat center center/cover;
     position: relative;
+  
    
 }
 
@@ -397,7 +398,15 @@ footer{
     #photos {
         column-count: 3;
     }
-}
+
+    /* Signup form*/
+
+    #form-signup {
+    max-width: 80%;
+    position: relative;
+    margin: 50px 82px 0 82px;
+
+    }
 
 
 /* Large devices (laptops and desktops, 992px and up) */
@@ -446,6 +455,15 @@ footer{
      #photos {
         column-count: 4;
     }
+
+        /* Signup form*/
+    
+        #form-signup {
+            max-width: 50%;
+            position: relative;
+            margin: 50px 256px 0 256px;
+    
+        }
 }
    
 
