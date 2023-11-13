@@ -282,6 +282,14 @@ footer{
     letter-spacing: 20px;
 }
 
+/* Signup form page*/
+
+.form-labels {
+    text-align: center;
+    font-size: 200%;
+}
+
+
 /* Media query: large or landscape phones (576px and up) */
 @media screen and (min-width: 576px) {
     #photos {
