@@ -20,7 +20,7 @@
     <link rel="stylesheet" href="assets/css/style.css">
 </head>
 
-<body>
+<body id="cover">
     <!-- Header-->
     <header>
         <a href="index.html">
@@ -42,8 +42,8 @@
     <!-- Main Content-->
     <main>
         <section id="signup">
-            <form action="http://formdump.codeinstitute.net" id="form" method="POST">
-                <h2>Signup me up</h2>
+            <form action="http://formdump.codeinstitute.net" id="form-signup" method="POST">
+                <h2><ins>Signup me up</ins></h2>
                 <label for="first-name" class="form-labels">First Name</label>
                 <br>
                 <input type="text" name="first-name" id="first-name" class="text-input" required>
@@ -63,16 +63,36 @@
                 <br>
                 <input type="tel" name="contact-number" id="contact-number" class="text-input" required>
                 <br>
-                <label for="dogs-breed" class="form-labels">Dogs Breed</label>
+                <label for="dogs-breed" class="form-labels">Dogs Breed and Name</label>
                 <br>
                 <input type="text" name="dogs-breed" id="dogs-breed" class="text-input" required>
                 <br>
                 <label for="history" class="form-labels"> History</label>
                 <br>
-                <input type="text">
+                <textarea rows="5" cols="15" name="history" id="history" class="text-input">Medical history, full characteristics of the dog including any behavioural and social issues</textarea>
+                <br>
 
+                <h3><ins>Were did you find out about us?</ins></h3>
+
+                <div >
+                <label for="social">Social Media</label>
+                <input type="radio" name="where_found_out"  class="radio" id="social" value="social" required checked>
+                <br>
+                <label for="friends-family">Friends and Family</label>
+                <input type="radio" name="where_found_out" id="friends-family" value="friends-family" required>
+                <br>
+
+                <label for="other">Othter</label>
+                <input type="radio" name="where_found_out" id="other" value="other" required>
+
+                </div>
+
+                <br>
+                <button type="submit" class="signup-button">Sign Up</button>
 
             </form>
+
+
         </section>
     </main>
 
