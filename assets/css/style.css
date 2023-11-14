@@ -258,6 +258,11 @@ main {
 #backgroud{
     background-color: #376D4D;
 }
+
+.hidden-heading {
+    display:none;
+}
+
 #photos img {
     width: 100%;
     line-height: 1em;
