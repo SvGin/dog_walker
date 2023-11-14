@@ -44,8 +44,3 @@ Dog Walker is a site which is created for dog walking and other dog care service
   - The footer section includes links to the relevant social media sites for Dog Walker. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 ![Screenshot form Dog Walker web page The Footer](assets/media/dog_walker_footer.png)
-
-
-
-
-  
