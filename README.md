@@ -1,24 +1,24 @@
 # [Dog Walker](https://svgin.github.io/dog_walker/)
 
-Dog Walker is a site which is created for dog walking and other dog care services (dog sitting, puppy care and similar) providing business. This businnes is located in Bourne Lincolshire and provides its profesional services in Bourn and sorounding areas. Dog Walker site is usefull for the business as it atracts more clients and it is usefull for dog owners as they can see the services provided and contact the bussines if they need more information or can sign up directly from the web page to save valuable time.
+Dog Walker is a site which is created for dog walking and other dog care services (dog sitting, puppy care and similar) business. This business is located in Bourne, Lincolnshire and provides its professional services in Bourne and surrounding areas. The Dog Walker site is useful for business as it attracts more clients and it is useful for dog owners as they can see the services provided and contact the business if they need more information or can sign up directly from the web page to save valuable time.
 
 ![Different screen devices with Dog Walker web page](/assets/media/dog_walker_responsive.png)
 
 ## Features
 
 - ### Navigation Bar and Logo
-  - Navigation Bar and Logo is displayd on all three pages. Both are locates on the top of the page and are always visible even when scrolling down.
-  - Navigation Bar includes link to Logo, Home Page, Gallery and Sign Up pages.
+  - The Navigation Bar and Logo are displayed on all three pages. Both are located on the top of the page and are always visible even when scrolling down.
+  - The Navigation Bar includes links to Logo, Home Page, Gallery and Sign Up pages.
   - Navigation Bar and Logo are identical on all three pages to allow for ease of navigation.
-  - This section allows users easity navigate from page to page on all devices.
+  - This section allows users to easily navigate from page to page on all devices.
   ![Dog Walker page Navigation Bar and logo](assets/media/dog_walker_navbar_logo.png)
   
 - ### Mobile and tablet friendly
 
-  - Dog Walker Web page been made mobile phone and other device friendly, so more people can access the web page and have good experience while exploring it.
+  - Dog Walker Web page has been made mobile phone and other device friendly, so more people can access the web page and have good experience whilst exploring it.
   
 - ### The landing page image
-  - The landing image has an eye catching image of the dog on the walk. It is and introduction to the Dog Walkers web page.
+  - The landing image has an eye catching image of the dog on a walk. It is an introduction to the Dog Walkers web page.
   - The landing image contains text overlay which gives information about the area where services are provided.
 
 ![Dog on the walk in the woods](assets/media/dog_walker_hero_picture.png)
@@ -30,13 +30,13 @@ Dog Walker is a site which is created for dog walking and other dog care service
 
 
 - ### Services and Prices secttion
-  - This section gives a list of services the business provides and the prices for them. The section contains just neccesarry information and doesn't overcrowd the screen.
+  - This section gives a list of services the business provides and the prices for them. The section contains just the neccesarry information and doesn't overcrowd the screen.
   - This section has the picture to attract the user to the service and prices section.
   ![Screenshot form Dog Walker Services and Prices section](assets/media/dog_walker_services_prices.png)
 
 - ### Our Contacts Section
-  - This section provides the different the user can contact the business.
-  - Section incudes email address, Phone number, Facebook messenger and Adress. New contact options can be added and it will automaticaly adjust to the different screen sizes.
+  - This section provides different ways the user can contact the business.
+  - Section incudes email address, Phone number, Facebook messenger and Address. New contact options can be added and it will automaticaly adjust to the different screen sizes.
   ![Screenshot form Dog Walker web page Contact section](assets/media/dog_walker_contacts.png)
   ![Screenshot form Dog Walker web page Contact section on mobile devices and tablets](assets/media/dog_walker_mobile_contacts.png)
 
@@ -46,40 +46,40 @@ Dog Walker is a site which is created for dog walking and other dog care service
 ![Screenshot form Dog Walker web page The Footer](assets/media/dog_walker_footer.png)
 
 - ### Gallery
-  - Gallery is there to provide a visual information.
-  - This section is valuable for users as they can see that their pets will have a good care. 
+  - Gallery is there to provide visual information.
+  - This section is valuable for users as they can see that their pets will have good care. 
   ![Screenshot of Gallery from Dog Walker web page](assets/media/dog_walker_gallery.png)
 
 - ### The Sign Up Page
-  - This page is mede for the user to be able to sign their pets up for dog walker services. The usre will need to share their full name, email address and phone number. User will need to describe their dog and ttell about potential issues or concerns about their dog. 
+  - This page is made for the user to be able to sign their pets up for dog walker services. The user will need to share their full name, email address and phone number. The user will need to describe their dog and tell about their potential issues or concerns about their dog. 
   ![Screenshot of Sign up page from Dog Walker web page](assets/media/dog_walker_signup.png)
 
 - ### Features left to implement
   - #### About us page       
-    - Would like to add separate About us page, where could share more information about the business goals, ideas, vision and values.
-    - Would includ testimonials and reewievs from wxisting custumers.
+    - Would like to add separate About us page, where we could share more information about the business goals, ideas, vision and values.
+    - Would include testimonials and revievs from existing custumers.
   - ### Extra links 
     - #### Email me
-      - Will add to the the footer for the link directly opee emails ready for the user to type and send it.
+      - Will add to the the footer for the link directly to open emails ready for the user to type and send it.
     -  #### Local charity
-       -  Add extra secttion at the bottom af the Home page with links to local charities and shelter that Dag Walker business supports.
+       -  Add extra section at the bottom of the Home page with links to local charities and shelter that Dog Walker business supports.
     - #### Introducttion Video
-      - Add video at Home page where business ownner and staff would describe their day to day work and experiences.
+      - Add video at Home page where business owner and staff would describe their day to day work and experiences.
 
 ## Testing
 ### Feature and device responsivness testing
 - #### Navigation bar and logo
-    Testing on different screen sizes to make sure the navigation bar and logo is visible, easy to use and spaced up correctly and to meke sure it is always located on the top of the screen. On mobile phones and all screens width smaller then 768px the nav bar is hidden in "burger" icon, so it doesnt take up too much space on the screen. When pressed on the nav bar is revieled. 
+    Testing on different screen sizes to make sure the navigation bar and logo is visible, easy to use and spaced up correctly and to make sure it is always located on the top of the screen. On mobile phones and all screens width smaller than 768px the nav bar is hidden in "burger" icon, so it doesnt take up too much space on the screen. When pressed on the nav bar it is revealed. 
 
-    On whider screens Navigation bar is fully wisible and located inline with the Logo.
+    On wider screens Navigation bar is fully visible and located inline with the Logo.
     ![Screenshot of Navigation bar on mobile devices and larger screens](assets/media/dog_walker_nav_bar_respons.png)
 
 - #### The landing page image and text
-  Tsting rhat the page and the text is responsive and looks good on any screen types, so the picture is visible and the text is located in the right place depending on the screen size.
+  Testing that the page and the text is responsive and looks good on any screen types, so the picture is visible and the text is located in the right place depending on the screen size.
   ![Screenshot of landing image and text on different screen sizes](assets/media/dog_walker_landingpic_responsive.png   )
 
 - #### Abaut Us/Reasons to hire us and Services/Prices sections
-    Testing responsivnes of thise sections on different screen sizes to make sure both sections look good and readable and all information and pictture sisplayed in corect order and place on all devices.
+    Testing responsivnes of these sections on different screen sizes to make sure both sections look good and readable and all information and the picture displayed in the correct order and place on all devices.
     ![Screenshot of AboutUs/Reasons to hire Us and Servisec and Prices sections](assets/media/dog_walker_about_prices_respons.png)
     
 - #### Contact us section
@@ -87,21 +87,21 @@ Dog Walker is a site which is created for dog walking and other dog care service
   ![Screenshot contats sections on diferent device sizes](assets/media/dog_walker_contacts_respons.png)
 
 - #### Footer link testing 
-  Tested all the links on all devise sizes to make sure all of them are opening on the saparate page on all screen sizes.
+  Tested all the links on all device sizes to make sure all of them are opening on the separate page on all screen sizes.
   
 - #### Gallery
-  Testing Gallery page, to make sure it is responsive to all devises, that all pictueres are visible and easy to see on different screen sizes.
+  Testing Gallery page, to make sure it is responsive to all devices, that all pictueres are visible and easy to see on different screen sizes.
    ![Screen shot of gallery on different devise sizes](assets/media/dog_walker_gallery_respon.png)
    
 - #### Sign Up page and form
-  - Testing the responsivnes of the form on different devise screens.
+  - Testing the responsiveness of the form on different device screens.
   ![Screenshot of sign up page on different screen sizes](assets/media/dog_walker_signup_respons.png)
   
 - #### Requaried fields
-   - Making sure that the user is not able to submit form without providing neccesary information.
+   - Making sure that the user is not able to submit the form without providing neccesary information.
   ![Screen shot of not correctly feeled in form](assets/media/dog_walker_fields.png)
   
-  - Testing if the form will populate information after submittion.
+  - Testing if the form will populate information after submission.
   ![Screenshot of formdump](assets/media/dog_walker_formdump.png)
 
 ### Validator testing
@@ -126,12 +126,14 @@ The live link can be found here - <https://svgin.github.io/dog_walker/>
     - [KamsWalks](https://kamswalks.co.uk/)
   - Instructions on how to implement form validation on the Sign Up page was taken from [Code Institute](https://codeinstitute.net./)
   - The icons for the footer links and contact icons were taken from [Fontawsome](https://fontawesome.com/)
-  - Some of the code was addapted from
+  - Some of the code was addapted <br>from 
+    websites:
     - [Love running](https://code-institute-org.github.io/love-running-2.0/index.html)
+    - [Chefs-Shop](https://emmy-dare274.github.io/EmmyPP1-Chefs-Shop/index.html)
+  <br> from external sources:
     - [Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel)
     - [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
     - [I am Responsive](https://ui.dev/amiresponsive?url=https://svgin.github.io/dog_walker/)
-    - [Chefs-Shop](https://emmy-dare274.github.io/EmmyPP1-Chefs-Shop/index.html)
     - [Fonts Google](https://fonts.google.com/specimen/Barlow?preview.text=dog%20walking%20servises%20in%20Bourne)
   - The icon for page title been taken form [Favicon](https://favicon.io/favicon-generator/)
   - For grammar check I used [GrammarCheck](https://www.grammarcheck.net/editor/)
