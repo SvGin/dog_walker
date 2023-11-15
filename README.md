@@ -44,3 +44,50 @@ Dog Walker is a site which is created for dog walking and other dog care service
   - The footer section includes links to the relevant social media sites for Dog Walker. The links will open to a new tab to allow easy navigation for the user.
   - The footer is valuable to the user as it encourages them to keep connected via social media
 ![Screenshot form Dog Walker web page The Footer](assets/media/dog_walker_footer.png)
+
+- ### Gallery
+  - Gallery is there to provide a visual information.
+  - This section is valuable for users as they can see that their pets will have a good care. 
+  ![Screenshot of Gallery from Dog Walker web page](assets/media/dog_walker_gallery.png)
+
+- ### The Sign Up Page
+  - This page is mede for the user to be able to sign their pets up for dog walker services. The usre will need to share their full name, email address and phone number. User will need to describe their dog and ttell about potential issues or concerns about their dog. 
+  ![Screenshot of Sign up page from Dog Walker web page](assets/media/dog_walker_signup.png)
+
+- ### Features left to implement
+  - #### About us page       
+    - Would like to add separate About us page, where could share more information about the business goals, ideas, vision and values.
+    - Would includ testimonials and reewievs from wxisting custumers.
+  - ### Extra links 
+    - #### Email me
+      - Will add to the the footer for the link directly opee emails ready for the user to type and send it.
+    -  #### Local charity
+       -  Add extra secttion at the bottom af the Home page with links to local charities and shelter that Dag Walker business supports.
+    - #### Introducttion Video
+      - Add video at Home page where business ownner and staff would describe their day to day work and experiences.
+
+## Testing
+- ### Navigation bar and logo
+    Testing on different screen sizes to make sure the navigation bar and logo is visible, easy to use and spaced up correctly and to meke sure it is always located on the top of the screen. On mobile phones and all screens width smaller then 768px the nav bar is hidden in "burger" icon, so it doesnt take up too much space on the screen. When pressed on the nav bar is revieled. 
+
+    On whider screens Navigation bar is fully wisible and located inline with the Logo.
+    ![Screenshot of Navigation bar on mobile devices and larger screens](assets/media/dog_walker_nav_bar_respons.png)
+
+- ### The landing page image and text
+  Tsting rhat the page and the text is responsive and looks good on any screen types, so the picture is visible and the text is located in the right place depending on the screen size.
+  ![Screenshot of landing image and text on different screen sizes](assets/media/dog_walker_landingpic_responsive.png   )
+
+- ### Abaut Us/Reasons to hire us and Services/Prices sections
+    Testing responsivnes of thise sections on different screen sizes to make sure both sections look good and readable and all information and pictture sisplayed in corect order and place on all devices.
+    ![Screenshot of AboutUs/Reasons to hire Us and Servisec and Prices sections](assets/media/dog_walker_about_prices_respons.png)
+    
+- ### Contact us section
+  Testing responsivnes on all the screen sizes to make sure all the details are visible and look good and readable on the screen.
+  ![Screenshot contats sections on diferent device sizes](assets/media/dog_walker_contacts_respons.png)
+
+- ### Footer link testing 
+  Tested all the links on all devise sizes to make sure all of them are opening on the saparate page on all screen sizes.
+  
+- ### Gallery
+  Testing Gallery page, to make sure it is responsive to all devises, that all pictueres are visible and easy to see on different screen sizes.
+   
