@@ -135,7 +135,12 @@ The live link can be found here - <https://svgin.github.io/dog_walker/>
     - [Fonts Google](https://fonts.google.com/specimen/Barlow?preview.text=dog%20walking%20servises%20in%20Bourne)
   - The icon for page title been taken form [Favicon](https://favicon.io/favicon-generator/)
   - For grammar check I used [GrammarCheck](https://www.grammarcheck.net/editor/)
-  
+
+- ### Media
+  - For picture design I used [Canva](https://www.canva.com/en_gb/)
+  - To pick the color for fonts and backgrouds I used [RedKetchup](https://redketchup.io/color-picker)
+  - Pictures used in Gallery and as backround been taken from [Pexels](https://www.pexels.com/)
+    - 
 
 
   
