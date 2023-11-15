@@ -110,6 +110,14 @@ Dog Walker is a site which is created for dog walking and other dog care service
 - CSS
   - No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Fsvgin.github.io%2Fdog_walker%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
+## Deployment
+  The site was deployed to GitHub pages. The steps to deploy are as follows:
+- In the GitHub repository, navigate to the Settings tab
+- From the source section drop-down menu, select the Master Branch
+- Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found here - <https://svgin.github.io/dog_walker/>
+
 
 
 
