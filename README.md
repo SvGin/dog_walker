@@ -90,4 +90,16 @@ Dog Walker is a site which is created for dog walking and other dog care service
   
 - ### Gallery
   Testing Gallery page, to make sure it is responsive to all devises, that all pictueres are visible and easy to see on different screen sizes.
+   ![Screen shot of gallery on different devise sizes](assets/media/dog_walker_gallery_respon.png)
    
+- ### Sign Up page and form
+  - Testing the responsivnes of the form on different devise screens.
+  ![Screenshot of sign up page on different screen sizes](assets/media/dog_walker_signup_respons.png)
+  
+- ### Requaried fields
+   - Making sure that the user is not able to submit form without providing neccesary information.
+  ![Screen shot of not correctly feeled in form](assets/media/dog_walker_fields.png)
+  
+  - Testing if the form will populate information after submittion.
+  ![Screenshot of formdump](assets/media/dog_walker_formdump.png)
+  
