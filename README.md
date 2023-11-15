@@ -140,7 +140,24 @@ The live link can be found here - <https://svgin.github.io/dog_walker/>
   - For picture design I used [Canva](https://www.canva.com/en_gb/)
   - To pick the color for fonts and backgrouds I used [RedKetchup](https://redketchup.io/color-picker)
   - Pictures used in Gallery and as backround been taken from [Pexels](https://www.pexels.com/)
-    - 
+    - [Photo by Johann](https://www.pexels.com/photo/english-cocker-spaniel-puppy-sitting-on-ground-beside-grass-1254140/)
+    - [Photo by Lum3n](https://www.pexels.com/photo/closeup-photo-of-brown-and-black-dog-face-406014/)
+    - [Photo by Blue Bird](https://www.pexels.com/photo/unrecognizable-woman-walking-dogs-on-leashes-in-countryside-7210754/)
+    - [Photo by Rubenstein Rebell](https://www.pexels.com/photo/dog-treats-laid-on-brown-cardboard-8121142/)
+    - [Photo by Blue Bird](https://www.pexels.com/photo/unrecognizable-person-walking-pack-of-dogs-in-park-7210535/)
+    - [Photo by Helena Lopes](https://www.pexels.com/photo/photo-of-dog-and-person-walking-on-grass-3705254/)
+    - [Photo by Svetlana G](https://www.pexels.com/photo/basenji-19070259/)
+    - [Photo by Amal  Santhosh](https://www.pexels.com/photo/labrador-retriever-dog-662417/)
+    - [Photo by Dariusz Grosa](https://www.pexels.com/photo/silhouette-of-a-woman-walking-her-dog-on-uphill-pathway-2043021/)
+    - [Photo by Raša St](https://www.pexels.com/photo/selective-focus-photography-of-white-adorable-puppy-walking-outdoors-2476343/)
+    - [Photo by Lisa Fotios](https://www.pexels.com/photo/woman-beside-dog-walking-in-the-forest-under-tall-trees-at-daytime-1006374/)
+    - [Photo by Laura Paredis](https://www.pexels.com/photo/dog-running-in-wild-field-13076157/)
+    - [Photo by chepté cormani](https://www.pexels.com/photo/dog-with-ball-in-mouth-jumping-over-a-fallen-tree-trunk-3013467/|)
+    - [Photo by Gili  Pup](https://www.pexels.com/photo/dogs-playing-on-a-grassy-field-10961354/)
+    - [Photo by Karolina Grabowska](https://www.pexels.com/photo/black-and-white-short-coated-dog-on-snow-covered-ground-6633915/)
+    - [Photo by Elina Volkova](https://www.pexels.com/photo/dogs-playing-together-in-park-18842115/)
+    - [Photo by Blue Bird](https://www.pexels.com/photo/adorable-border-collie-with-leash-7210748/)
+    - [Photo by Alina Bystrova](https://www.pexels.com/photo/white-puppy-walking-on-grass-13081688/)
 
 
   
