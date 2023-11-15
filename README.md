@@ -118,7 +118,24 @@ Dog Walker is a site which is created for dog walking and other dog care service
 
 The live link can be found here - <https://svgin.github.io/dog_walker/>
 
-
+## Credits
+- ### Content
+  - Some of the text and insparation for the page deesign was taken form :
+    - [Love running](https://code-institute-org.github.io/love-running-2.0/index.html)
+    - [The Bourne Dogwalker](https://thebournedogwalker.co.uk/)
+    - [KamsWalks](https://kamswalks.co.uk/)
+  - Instructions on how to implement form validation on the Sign Up page was taken from [Code Institute](https://codeinstitute.net./)
+  - The icons for the footer links and contact icons were taken from [Fontawsome](https://fontawesome.com/)
+  - Some of the code was addapted from
+    - [Love running](https://code-institute-org.github.io/love-running-2.0/index.html)
+    - [Developer.Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/tel)
+    - [GitHub](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+    - [I am Responsive](https://ui.dev/amiresponsive?url=https://svgin.github.io/dog_walker/)
+    - [Chefs-Shop](https://emmy-dare274.github.io/EmmyPP1-Chefs-Shop/index.html)
+    - [Fonts Google](https://fonts.google.com/specimen/Barlow?preview.text=dog%20walking%20servises%20in%20Bourne)
+  - The icon for page title been taken form [Favicon](https://favicon.io/favicon-generator/)
+  - For grammar check I used [GrammarCheck](https://www.grammarcheck.net/editor/)
+  
 
 
   
