@@ -67,39 +67,45 @@ Dog Walker is a site which is created for dog walking and other dog care service
       - Add video at Home page where business ownner and staff would describe their day to day work and experiences.
 
 ## Testing
-- ### Navigation bar and logo
+### Feature and device responsivness testing
+- #### Navigation bar and logo
     Testing on different screen sizes to make sure the navigation bar and logo is visible, easy to use and spaced up correctly and to meke sure it is always located on the top of the screen. On mobile phones and all screens width smaller then 768px the nav bar is hidden in "burger" icon, so it doesnt take up too much space on the screen. When pressed on the nav bar is revieled. 
 
     On whider screens Navigation bar is fully wisible and located inline with the Logo.
     ![Screenshot of Navigation bar on mobile devices and larger screens](assets/media/dog_walker_nav_bar_respons.png)
 
-- ### The landing page image and text
+- #### The landing page image and text
   Tsting rhat the page and the text is responsive and looks good on any screen types, so the picture is visible and the text is located in the right place depending on the screen size.
   ![Screenshot of landing image and text on different screen sizes](assets/media/dog_walker_landingpic_responsive.png   )
 
-- ### Abaut Us/Reasons to hire us and Services/Prices sections
+- #### Abaut Us/Reasons to hire us and Services/Prices sections
     Testing responsivnes of thise sections on different screen sizes to make sure both sections look good and readable and all information and pictture sisplayed in corect order and place on all devices.
     ![Screenshot of AboutUs/Reasons to hire Us and Servisec and Prices sections](assets/media/dog_walker_about_prices_respons.png)
     
-- ### Contact us section
+- #### Contact us section
   Testing responsivnes on all the screen sizes to make sure all the details are visible and look good and readable on the screen.
   ![Screenshot contats sections on diferent device sizes](assets/media/dog_walker_contacts_respons.png)
 
-- ### Footer link testing 
+- #### Footer link testing 
   Tested all the links on all devise sizes to make sure all of them are opening on the saparate page on all screen sizes.
   
-- ### Gallery
+- #### Gallery
   Testing Gallery page, to make sure it is responsive to all devises, that all pictueres are visible and easy to see on different screen sizes.
    ![Screen shot of gallery on different devise sizes](assets/media/dog_walker_gallery_respon.png)
    
-- ### Sign Up page and form
+- #### Sign Up page and form
   - Testing the responsivnes of the form on different devise screens.
   ![Screenshot of sign up page on different screen sizes](assets/media/dog_walker_signup_respons.png)
   
-- ### Requaried fields
+- #### Requaried fields
    - Making sure that the user is not able to submit form without providing neccesary information.
   ![Screen shot of not correctly feeled in form](assets/media/dog_walker_fields.png)
   
   - Testing if the form will populate information after submittion.
   ![Screenshot of formdump](assets/media/dog_walker_formdump.png)
+
+### Validator testing
+- HTML
+  - No errors were returned when passing through the official [W3C validator]()
+
   
